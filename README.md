@@ -1,16 +1,4 @@
-# ads_arabic_651_stable
+Used for ads issue: https://github.com/googleads/googleads-mobile-flutter/issues/651
 
-A new Flutter project.
+https://user-images.githubusercontent.com/104349824/191073551-2d79a8c7-d5cf-47c3-aac7-5f0633ca2615.mov
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
